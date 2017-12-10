@@ -1,0 +1,12 @@
+﻿  Plotting.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(108): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(120): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\matlabcapableproject\test\plotting.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  test.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab07\matlabCapableProject\x64\Debug\Plotting.exe

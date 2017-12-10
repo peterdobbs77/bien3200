@@ -1,0 +1,7 @@
+﻿  EventDetection.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab03\eventdetectionalgorithm\test\eventdetection.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab03\eventdetectionalgorithm\test\eventdetection.cpp(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab03\eventdetectionalgorithm\test\eventdetection.cpp(45): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab03\eventdetectionalgorithm\test\eventdetection.cpp(46): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab03\eventdetectionalgorithm\test\eventdetection.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab03\EventDetectionAlgorithm\x64\Debug\EventDetectionAlgorithm.exe

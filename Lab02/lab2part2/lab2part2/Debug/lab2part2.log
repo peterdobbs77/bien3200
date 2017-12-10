@@ -1,0 +1,16 @@
+﻿  lab2part2.c
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+lab2part2.obj : error LNK2019: unresolved external symbol _mxGetPr referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _mxCreateNumericMatrix_730 referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _engEvalString referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _engOpen referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _engClose referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _engPutVariable referenced in function _main
+lab2part2.obj : error LNK2019: unresolved external symbol _mexPrintf referenced in function _main
+C:\Program Files\MATLAB\R2015a\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files\MATLAB\R2015a\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files\MATLAB\R2015a\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files\MATLAB\R2015a\extern\lib\win64\microsoft\libmat.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab02\lab2part2\Debug\lab2part2.exe : fatal error LNK1120: 7 unresolved externals

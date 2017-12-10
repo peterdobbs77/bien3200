@@ -1,0 +1,3 @@
+﻿  ContAcqSamps-IntClk_main.c
+c:\users\peter\documents\16_17junior\bien3200\lab05\dataaquisition\dataaquisition\contacqsamps-intclk_main.c(111): warning C4244: 'function': conversion from 'float' to 'uInt32', possible loss of data
+  DataAquisition.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab05\DataAquisition\Debug\DataAquisition.exe

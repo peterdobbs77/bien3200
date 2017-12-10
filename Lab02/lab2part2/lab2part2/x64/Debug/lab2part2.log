@@ -1,0 +1,5 @@
+﻿  lab2part2.c
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab02\lab2part2\lab2part2\lab2part2.c(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab2part2.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab02\lab2part2\x64\Debug\lab2part2.exe

@@ -1,0 +1,14 @@
+﻿  SolveODE_order4Runge-Kutta.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(119): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(139): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\peter\documents\16_17junior\bien3200\lab07\solveode_order4runge-kutta\solveode_order4runge-kutta\solveode_order4runge-kutta.cpp(139): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  SolveODE_order4Runge-Kutta.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab07\SolveODE_order4Runge-Kutta\Debug\SolveODE_order4Runge-Kutta.exe

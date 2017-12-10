@@ -1,0 +1,3 @@
+﻿  SimpleCProgram.c
+c:\users\peter\documents\16_17junior\bien3200\lab02\simplecprogram\simplecprogram\simplecprogram.c(52): warning C4013: 'system' undefined; assuming extern returning int
+  SimpleCProgram.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab02\SimpleCProgram\Debug\SimpleCProgram.exe

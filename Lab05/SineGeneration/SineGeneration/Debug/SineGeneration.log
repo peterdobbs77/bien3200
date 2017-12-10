@@ -1,0 +1,9 @@
+﻿  SineGeneration.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(35): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(37): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(39): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(41): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(43): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\sinegeneration\sinegeneration\sinegeneration.cpp(47): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  SineGeneration.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab05\SineGeneration\Debug\SineGeneration.exe

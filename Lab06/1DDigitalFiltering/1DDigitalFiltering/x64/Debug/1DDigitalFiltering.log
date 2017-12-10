@@ -1,0 +1,15 @@
+﻿  1DDigitalFiltering.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\fftfilter.h(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\fftfilter.h(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\fftfilter.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\fftfilter.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\fftfilter.h(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(69): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(145): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab06\1ddigitalfiltering\1ddigitalfiltering\1ddigitalfiltering.cpp(146): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  1DDigitalFiltering.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab06\1DDigitalFiltering\x64\Debug\1DDigitalFiltering.exe

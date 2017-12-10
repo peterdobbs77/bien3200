@@ -1,0 +1,7 @@
+﻿  EventDetection.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab04\sinusdetectionfs1\test\eventdetection.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab04\sinusdetectionfs1\test\eventdetection.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab04\sinusdetectionfs1\test\eventdetection.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab04\sinusdetectionfs1\test\eventdetection.cpp(83): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab04\sinusdetectionfs1\test\eventdetection.cpp(130): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab04\SinusDetectionFS1\x64\Debug\EventDetectionAlgorithm.exe

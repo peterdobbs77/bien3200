@@ -1,0 +1,10 @@
+﻿  DiscreteFourier.cpp
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\fftfilter.h(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\fftfilter.h(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\fftfilter.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\fftfilter.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\fftfilter.h(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\discretefourier.cpp(49): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\discretefourier.cpp(50): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+c:\users\peter\documents\16_17junior\bien3200\lab05\discretefourier\discretefourier\discretefourier.cpp(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DiscreteFourier.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab05\DiscreteFourier\Debug\DiscreteFourier.exe

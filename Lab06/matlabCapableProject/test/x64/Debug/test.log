@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (EventDetectionAlgorithm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Plotting.cpp
+  test.vcxproj -> C:\Users\Peter\Documents\16_17Junior\BIEN3200\Lab06\matlabCapableProject\x64\Debug\Plotting.exe
