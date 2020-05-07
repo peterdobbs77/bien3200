@@ -108,6 +108,7 @@ int highpass(float *data, int n) {
 	int i, j, status;
 
 	status = 0;
+	// TODO: Update path for location in repository
 	firfile = fopen("C:\\Users\\Peter\\Documents\\16_17Junior\\BIEN3200\\Lab06\\HIGHPASS.txt", "r");
 	if (firfile == NULL) {
 		status = 1;
@@ -143,6 +144,7 @@ int lowpass(float *data, int n) {
 	int i, j, status;
 
 	status = 0;
+	// TODO: Update path for location in repository
 	firfile = fopen("C:\\Users\\Peter\\Documents\\16_17Junior\\BIEN3200\\Lab06\\LOWPASS.txt", "r");
 	if (firfile == NULL) {
 		status = 1;
